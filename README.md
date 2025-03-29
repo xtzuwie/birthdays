@@ -1,7 +1,8 @@
-Credits to sapthesh. 
-Would like to use for the birthday of my friends, so thank you! 
+A big thank you to sapthesh for creating this wonderful content. 
+I would like to use this for birthday of my friend, so thank you! 
 @xtzuwie.git
 
+Credits to @sapthesh
 Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
